@@ -1,6 +1,8 @@
 """
 Örnek 02: Fonksiyonel Modüler Hesap Makinesi
 
+Bu program kullanıcıdan alınan sayılarla temel 4 işlem yapar.
+
 Bu örnekte fonksiyonlar, modüler yapı ve hata kontrolleri kullanılmıştır.
 """
 
