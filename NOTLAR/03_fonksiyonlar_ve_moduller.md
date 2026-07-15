@@ -69,3 +69,7 @@ print(randint(1, 10))   # 1 ile 10 arasında rastgele tamsayı
 
 - *"Fonksiyon veri döndürmüyorsa cevabı `None`'dır."*
 - *"Varsayılan parametrelere asla boş liste (`[]`) veya sözlük (`{}`) atama; `None` kullan."*
+
+
+> [!TIP]
+> Fonksiyon yazarken `type hints` (tip ipuçları) kullanmak kodun okunabilirliğini belirgin şekilde artırır.
