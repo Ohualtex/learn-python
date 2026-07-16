@@ -17,7 +17,7 @@ def carp(a: float, b: float) -> float:
 
 def bol(a: float, b: float) -> float:
     if b == 0:
-        raise ValueError("Sıfıra bölme hatası!")
+        raise ValueError("Sıfıra bölme hatası: İkinci sayı 0 olamaz!")
     return a / b
 
 def menuyu_goster():
