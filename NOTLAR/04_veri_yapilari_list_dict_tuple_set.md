@@ -40,6 +40,7 @@ print(sayilar) # {1, 2, 3} (Tekrarlar silinir)
 ```python
 kareler = [x**2 for x in range(10) if x % 2 == 0]
 # [0, 4, 16, 36, 64]
+# Sözdizimi: [ifadeler for eleman in liste if kosul]
 ```
 
 ## Tuzaklar & Sık Yapılan Hatalar
