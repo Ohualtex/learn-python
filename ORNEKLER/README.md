@@ -8,3 +8,4 @@ Dosyaları kendi ortamınızda `python dosya_adi.py` şeklinde çalıştırıp �
 
 - `01_sayi_tahmin_oyunu.py`: Değişkenler, Tür Dönüşümü, if-elif-else ve while döngüsü ile sayı tahmin oyunu.
 - `02_hesap_makinesi_fonksiyonlar.py`: Fonksiyonlar, modüler yapı ve try-except ile hesap makinesi.
+- `03_ogrenci_takip_sozluk.py`: Sözlük, liste ve veri yapıları ile öğrenci takip sistemi.
