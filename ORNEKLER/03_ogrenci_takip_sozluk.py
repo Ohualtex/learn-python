@@ -1,5 +1,5 @@
 """
-Örnek 03: Sözlük ve Listeler ile Öğrenci Takip Sistemi
+Örnek 03: Sözlük ve Listeler ile Öğrenci Takip Sistemi (Gelişmiş Veri Yapıları)
 
 Bu örnekte dict, list, fonksiyonlar ve temel döngüler kullanılarak 
 öğrenci ekleme, not güncelleme ve ortalama hesaplama işlemleri yapılır.
