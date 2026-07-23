@@ -21,6 +21,9 @@ def not_ekle(numara: str, ders_notu: float):
     if numara not in ogrenciler:
         print("Hata: Öğrenci bulunamadı!")
         return
+    if not (0 <= ders_notu <= 100):
+        print("Hata: Not 0 ile 100 arasında olmalıdır!")
+        return
     ogrenciler[numara]["notlar"].append(ders_notu)
     print(f"{ogrenciler[numara]['ad']} adlı öğrenciye {ders_notu} notu eklendi.")
 
