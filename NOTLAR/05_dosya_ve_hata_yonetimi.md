@@ -52,3 +52,5 @@ with open("notlar.txt", "r", encoding="utf-8") as f:
 
 - *"Dosya açıyorsan her zaman `with open(..., encoding='utf-8')` kullan."*
 - *"Asla tek başına `except:` yazma; ne hatası yakaladığını açıkça belirt."*
+
+- *'Dosya kiplerinde `w` dosyayı sıfırlar, var olan veriyi korumak için `a` (append) kullan.'*
