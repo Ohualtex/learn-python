@@ -40,6 +40,7 @@ class Hesap:
 ## Tuzaklar & Sık Yapılan Hatalar
 
 1. **Metotlarda `self` Parametresini Unutmak:**
+   Unutulduğunda Python `TypeError: method takes X positional arguments but Y was given` hatası fırlatır.
    Sınıf içi metotların ilk parametresi her zaman `self` olmalıdır (`def hizlan(self, miktar):`). Aksi takdirde `TypeError: method takes X positional arguments but Y was given` hatası alınır.
 
 2. **Class Attribute ile Instance Attribute Karıştırmak:**
