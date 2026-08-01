@@ -28,7 +28,8 @@ class BankaHesabi:
         print(f"{miktar} TL çekildi. Kalan bakiye: {self.__bakiye:.2f} TL")
         return True
 
-    def bakiye_sorgula(self):
+    def bakiye_sorgula(self) -> float:
+        """Mevcut bakiyeyi ekrana yazdırır ve döndürür."""
         print(f"Hesap Sahibi: {self.hesap_sahibi} | Bakiye: {self.__bakiye:.2f} TL")
 
     def __str__(self):
