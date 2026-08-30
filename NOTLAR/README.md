@@ -10,3 +10,4 @@ Bu klasör, Python öğrenirken karşılaşacağınız temel kavramları, yaygı
 - [04. Veri Yapıları: Listeler, Sözlükler, Demetler ve Kümeler](04_veri_yapilari_list_dict_tuple_set.md)
 - [05. Dosya İşlemleri ve Hata Yönetimi](05_dosya_ve_hata_yonetimi.md)
 - [06. Nesne Yönelimli Programlama (OOP) - Sınıflar ve Nesneler](06_oop_siniflar_ve_nesneler.md)
+- [07. Nesne Yönelimli Programlama (OOP) - Kalıtım ve Çok Biçimlilik](07_oop_kalitim_ve_polimorfizm.md)
