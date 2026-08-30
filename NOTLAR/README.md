@@ -11,3 +11,4 @@ Bu klasör, Python öğrenirken karşılaşacağınız temel kavramları, yaygı
 - [05. Dosya İşlemleri ve Hata Yönetimi](05_dosya_ve_hata_yonetimi.md)
 - [06. Nesne Yönelimli Programlama (OOP) - Sınıflar ve Nesneler](06_oop_siniflar_ve_nesneler.md)
 - [07. Nesne Yönelimli Programlama (OOP) - Kalıtım ve Çok Biçimlilik](07_oop_kalitim_ve_polimorfizm.md)
+- [08. İleri Seviye Python Kavramları](08_ileri_seviye_python.md)
