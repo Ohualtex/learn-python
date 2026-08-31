@@ -6,3 +6,4 @@ Bu klasörde Python ile ilgili pratik yapmanız için karışık sorular bulunma
 
 - [01. Temel Konular ve Akış Kontrolü Alıştırmaları](01_temel_konular.md)
 - [02. Veri Yapıları Alıştırmaları](02_veri_yapilari.md)
+- [03. Fonksiyonlar ve Modüller Alıştırmaları](03_fonksiyonlar_ve_moduller.md)
