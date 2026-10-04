@@ -12,3 +12,4 @@ Dosyaları kendi ortamınızda `python dosya_adi.py` şeklinde çalıştırıp �
 - [04_banka_hesabi_oop.py](04_banka_hesabi_oop.py): Sınıflar, kapsülleme ve OOP prensipleri ile banka hesabı simülasyonu.
 - [05_not_defteri_dosya_hata.py](05_not_defteri_dosya_hata.py): Dosya I/O (JSON), `with open` ve `try-except` ile interaktif Not Defteri uygulaması.
 - [06_personel_yonetim_oop.py](06_personel_yonetim_oop.py): Kalıtım (Inheritance), çok biçimlilik (Polymorphism) ve `super()` ile Personel Yönetim Sistemi.
+- [07_dekorator_ve_jenerator.py](07_dekorator_ve_jenerator.py): `@zaman_olcer` ve `@loglayici` dekoratörleri ile `yield` bellek dostu jeneratör simülasyonu.
