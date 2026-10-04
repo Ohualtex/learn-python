@@ -18,5 +18,5 @@ Python ve Nesne Yönelimli Programlama (OOP) temellerini örnek kod, konu notlar
 4. **Veri Yapıları: List, Dict, Tuple, Set** ([Notlar](NOTLAR/04_veri_yapilari_list_dict_tuple_set.md) | [Alıştırma](ALISTIRMALAR/02_veri_yapilari.md) | [Örnek](ORNEKLER/03_ogrenci_takip_sozluk.py))
 5. **Dosya İşlemleri ve Hata Yönetimi** ([Notlar](NOTLAR/05_dosya_ve_hata_yonetimi.md) | [Örnek](ORNEKLER/05_not_defteri_dosya_hata.py))
 6. **Nesne Yönelimli Programlama (OOP) - Sınıflar ve Nesneler** ([Notlar](NOTLAR/06_oop_siniflar_ve_nesneler.md) | [Örnek](ORNEKLER/04_banka_hesabi_oop.py))
-7. **OOP: Kalıtım ve Çok Biçimlilik** ([Notlar](NOTLAR/07_oop_kalitim_ve_polimorfizm.md))
+7. **OOP: Kalıtım ve Çok Biçimlilik** ([Notlar](NOTLAR/07_oop_kalitim_ve_polimorfizm.md) | [Örnek](ORNEKLER/06_personel_yonetim_oop.py))
 8. **İleri Seviye Python Kavramları** ([Notlar](NOTLAR/08_ileri_seviye_python.md))
